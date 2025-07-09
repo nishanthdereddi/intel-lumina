@@ -1,0 +1,11 @@
+{
+  "model_name": "Knowledge Distillation Student Model",
+  "architecture": "Lightweight CNN with 4 residual blocks",
+  "training_epochs": 25,
+  "target_ssim": ">90%",
+  "achieved_ssim": "70-85%",
+  "model_size_mb": 11.4,
+  "parameters": "944,323",
+  "scale_factor": "4x",
+  "created_date": "2025-07-10"
+}
